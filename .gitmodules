@@ -1,0 +1,3 @@
+[submodule "mambo"]
+	path = mambo
+	url = https://gitlab.com/franck.ledoux/mambo.git
